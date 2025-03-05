@@ -1,0 +1,27 @@
+# General
+.DS_Store
+doc/
+
+# Node.js/JavaScript related
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+/.pnp
+.pnp.js
+/coverage
+/build
+
+# Python related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env.*
+.idea/
+.vscode/
